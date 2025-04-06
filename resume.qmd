@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sophia Jiyoung Yun's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sophia Jiyoung Yun
+Aspiring Healthcare AI & Data Science Professional, Former Nursing Student, Yoga Instructor in Training
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -13,77 +13,88 @@ Physicist, Mathematician, Cambridge professor.
 
 ## Currently
 
-Standing on the shoulders of giants
+Taking a career break to pivot from nursing into data science and machine learning
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Python  
+- SQL  
+- ggplot2  
+- Tableau  
+- Power BI  
+- Scikit-Learn  
 
+### Research Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Healthcare data science  
+- Clinical decision support systems  
+- Predictive modeling in medicine  
+- Machine learning for diagnostics  
+- Bioinformatics and molecular diagnostics  
+- EHR (Electronic Health Record) optimization  
+- AI in hospital operations  
+- Preventive and personalized healthcare  
+- Genomic data analysis  
+- Data-driven healthcare innovation  
+- Algorithm development for clinical risk assessment  
+- Real-time medical data analytics  
+- Translational medicine  
+- Health informatics  
+- Automation in clinical workflows  
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`Jan 2023-April 2026`
+__Brigham Young University Idaho__
 
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
+Volunteer President Award, Washington D.C., USA
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+N/A
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+N/A
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+### Aug 2024 – Jan 2025  
+**Career Break: Transition to Data Science & Machine Learning**  
+- Dedicated time to pivot from nursing into data science and ML  
+- Studied Python, SQL, statistical modeling, and machine learning fundamentals  
+- Combined clinical background with technical skills to prepare for healthcare data roles  
 
-- Warden
-- Minted coins
+### Apr 2024  
+**Student Nurse**, Ashton Living Center, Ashton, ID  
+- Assisted registered nurses in patient care and discharge planning  
+- Gained experience in medication administration, wound care, and EMR documentation  
+- Ensured HIPAA compliance and contributed to patient education  
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Jan 2023 – Nov 2023  
+**English Teacher**, CARROT Global (Remote)  
+- Taught conversational and business English to professionals abroad  
+- Adapted lessons to student proficiency levels and learning goals  
 
+### Jun 2021 – Dec 2022  
+**ACT Math Tutor**, Private Family Hire, Draper, UT  
+- Designed custom lesson plans and tracked ACT math performance  
+- Used assessment tools to guide students toward milestone achievements  
+
+### Jan 2021 – Apr 2021  
+**Report Manager Intern**, Redstone Residential  
+- Conducted real estate data analysis for investment strategies  
+- Led DEI projects and streamlined internal documentation  
+- Coordinated corporate events and employee surveys  
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: April 2025-->
