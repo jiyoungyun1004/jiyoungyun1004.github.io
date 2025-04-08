@@ -3,14 +3,8 @@ layout: cv
 title: Sophia Jiyoung Yun's CV
 ---
 # Sophia Jiyoung Yun
-Aspiring Healthcare AI & Data Science Professional, Former Nursing Student, Yoga Instructor in Training
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
+Aspiring Healthcare AI & Data Science Professional, Former Nursing Student, Yoga Instructor in Training  
+  
 ## Currently
 
 Taking a career break to pivot from nursing into data science and machine learning
@@ -19,7 +13,7 @@ Taking a career break to pivot from nursing into data science and machine learni
 
 - Python  
 - SQL  
-- ggplot2  
+- Ggplot2  
 - Tableau  
 - Power BI  
 - Scikit-Learn  
